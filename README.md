@@ -1,7 +1,7 @@
 # Professor Charles' Superb Student List
 In this project, I created an attendance list that allows the user to input names into a list and then click a button to display the full list of students that have been entered thus far.
 
-![Image](student-list.png "Screenshot")
+![image](student-list.png "Screenshot")
 
 Demo-link:  https://charlesdefarias.github.io/Week05-Student-list/
 
